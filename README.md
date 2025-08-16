@@ -1,18 +1,11 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Projeto de Configuração do Ambiente
 
-## Alunos integrantes da equipe
+## Informações do Aluno
+- **Nome:** Clarisse de Assis Pereira  
+- **Matrícula:** 903541
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+## Teste de inspeção de conexão
+Abaixo está o print feito com as ferramentas do desenvolvedor (aba Network) mostrando os arquivos carregados pelo navegador ao acessar um site:
 
-## Professores responsáveis
-
-* Nome completo do professor 1
-* Nome completo do professor 2
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+![Print da inspeção de conexão](imagens/inspecao.png)
+![Print da página com meu nome](imagens/pagina.png)
